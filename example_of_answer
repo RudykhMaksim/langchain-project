@@ -1,0 +1,58 @@
+Старт анализа...
+
+===== Обработка: chevy.jpg =====
+─── Распознавание автомобиля ───
+Изображение: data_cars/chevy.jpg
+Device set to use cpu
+Марка: Chevrolet Camaro
+─── Промежуточное состояние: Историческая справка ───
+Марка/модель: Chevrolet Camaro
+Справка:
+The Chevrolet Camaro was introduced in 1966 as a muscle car to compete with the Ford Mustang. Initially based on the Chevrolet Nova platform, the Camaro has undergone several redesigns, maintaining its reputation for high performance and sportiness throughout its history.
+─── Поиск объявления ───
+Запрос: Chevrolet Camaro
+Ссылка: https://auto.drom.ru/chevrolet/camaro/
+
+Результат:
+Марка/модель: Chevrolet Camaro
+Справка:
+The Chevrolet Camaro was introduced in 1966 as a muscle car to compete with the Ford Mustang. Initially based on the Chevrolet Nova platform, the Camaro has undergone several redesigns, maintaining its reputation for high performance and sportiness throughout its history.
+Объявление: https://auto.drom.ru/chevrolet/camaro/
+
+===== Обработка: Lamborghini_Huracan_20150525_7811.jpg =====
+─── Распознавание автомобиля ───
+Изображение: data_cars/Lamborghini_Huracan_20150525_7811.jpg
+Device set to use cpu
+Марка: Lamborghini Huracan
+─── Промежуточное состояние: Историческая справка ───
+Марка/модель: Lamborghini Huracan
+Справка:
+The Lamborghini Huracan was introduced in 2014 as a high-performance sports car to replace the Gallardo model. It features a powerful V10 engine and is known for its advanced aerodynamics and agile handling, making it a popular choice among Lamborghini enthusiasts and professional racers.
+─── Поиск объявления ───
+Запрос: Lamborghini Huracan
+Ссылка: https://www.avito.ru/all/avtomobili/lamborghini/huracan-ASgBAgICAkTgtg3MmCjitg3Qpyg
+
+Результат:
+Марка/модель: Lamborghini Huracan
+Справка:
+The Lamborghini Huracan was introduced in 2014 as a high-performance sports car to replace the Gallardo model. It features a powerful V10 engine and is known for its advanced aerodynamics and agile handling, making it a popular choice among Lamborghini enthusiasts and professional racers.
+Объявление: https://www.avito.ru/all/avtomobili/lamborghini/huracan-ASgBAgICAkTgtg3MmCjitg3Qpyg
+
+===== Обработка: 2006-2008_BMW_X5_01.jpg =====
+─── Распознавание автомобиля ───
+Изображение: data_cars/2006-2008_BMW_X5_01.jpg
+Device set to use cpu
+Марка: BMW X5
+─── Промежуточное состояние: Историческая справка ───
+Марка/модель: BMW X5
+Справка:
+The BMW X5 is a luxury sports utility vehicle (SUV) first introduced by BMW in 1999. It was the German automaker's first SUV and has since gone through several generations, each enhancing its off-road capabilities and luxury features while maintaining BMW's distinctive driving dynamics and engineering prowess.
+─── Поиск объявления ───
+Запрос: BMW X5
+Ссылка: https://auto.drom.ru/bmw/x5/
+
+Результат:
+Марка/модель: BMW X5
+Справка:
+The BMW X5 is a luxury sports utility vehicle (SUV) first introduced by BMW in 1999. It was the German automaker's first SUV and has since gone through several generations, each enhancing its off-road capabilities and luxury features while maintaining BMW's distinctive driving dynamics and engineering prowess.
+Объявление: https://auto.drom.ru/bmw/x5/
